@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "nome": "Pizza",
+    "imagem": "https://static-images.ifood.com.br/image/upload/f_auto/discoveries/19C1-pizza.jpg"
+  },
+  {
+    "id": 2,
+    "nome": "Lanches",
+    "imagem": "https://static-images.ifood.com.br/image/upload/f_auto/discoveries/19C1-lanches-v2.jpg"
+  },
+  {
+    "id": 3,
+    "nome": "Japonesa",
+    "imagem": "https://static-images.ifood.com.br/image/upload/f_auto/discoveries/19C1-japonesa.jpg"
+  },
+  {
+    "id": 4,
+    "nome": "Brasileira",
+    "imagem": "https://static-images.ifood.com.br/image/upload/f_auto/discoveries/19C1-brasileira-v2.jpg"
+  }
+]

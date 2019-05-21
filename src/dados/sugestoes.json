@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "titulo": "Jantar bom e barato",
+    "descricao": "Opções a partir de R$ 10 sem taxas",
+    "imagem": "https://static-images.ifood.com.br/image/upload/f_auto,t_high/discoveries/ifood_capas_jantar_bom_e_barato_v1_marco_2019.png"
+  },
+  {
+    "id": 2,
+    "titulo": "Taxa na faixa",
+    "descricao": "Cortesia do restaurante pra você",
+    "imagem": "https://static-images.ifood.com.br/image/upload/f_auto,t_high/discoveries/ifood_capas_entregagratis_v4_abril_2019.png"
+  }
+]
