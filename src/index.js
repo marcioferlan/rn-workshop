@@ -1,14 +1,10 @@
-import React from "react";
-import ReactDOM from "react-dom";
+import React from 'react';
+import ReactDOM from 'react-dom';
 
-import App from "./App";
+import { Text } from 'react-native'
 
-/**
-Pendências:
-  [ ] Rotas com react-router
-  [ ] Listagem de restaurantes
-  [ ] Detalhamento de restaurantes
-*/
+const App = () => (
+  <Text>Meu Primeiro App</Text>
+)
 
-const rootElement = document.getElementById("root");
-ReactDOM.render(<App />, rootElement);
+ReactDOM.render(<App />, document.getElementById('root'));
